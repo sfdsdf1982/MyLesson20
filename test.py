@@ -1,1 +1,1 @@
-print("Тест GIT")
+print("Тест GIT!!!")
